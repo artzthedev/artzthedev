@@ -16,5 +16,5 @@ Seja bem vindo ao meu perfil!
 - Domínio em **Notion** e **MarkDown**
 
 ## Contato/Redes Sociais:
-- Email: [Email](mailto:arturmateusdutrabck@gmail.com)
-- Instagram: [Instagram (@artzthedev)](https://www.instagram.com/artzthedev) / [Instagram (@artz.matz)](https://www.instagram.com/artz.matz)
+- Email: [](mailto:arturmateusdutrabck@gmail.com)
+- Instagram: [(@artzthedev)](https://www.instagram.com/artzthedev) / [(@artz.matz)](https://www.instagram.com/artz.matz)
