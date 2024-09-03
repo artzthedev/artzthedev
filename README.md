@@ -8,13 +8,14 @@ Seja bem vindo ao meu perfil!
 - Cert. em **Análise de Dados** por _Google_ 🎲
 
 ## Habilidades:
-- Domínio em **Git e GitHub** 
+- Domínio em **Git e GitHub** .
 - Linguagens: JavaScript, PHP, HTML, CSS.
 - Banco de Dados: MySQL.
-- Análise de Dados
-- Design Gráfico
-- Domínio em **Notion** e **MarkDown**
+- Análise de Dados.
+- Design Gráfico.
+- Domínio em **Notion** e **MarkDown**.
 
 ## Contato/Redes Sociais:
 - Email: [aturmateusdutrabck@gmail.com](mailto:arturmateusdutrabck@gmail.com)
 - Instagram: [(@artzthedev)](https://www.instagram.com/artzthedev) / [(@artz.matz)](https://www.instagram.com/artz.matz)
+- Discord: artzmatz.
