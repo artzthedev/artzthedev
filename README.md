@@ -8,14 +8,15 @@ Seja bem vindo ao meu perfil!
 - Cert. em **Análise de Dados** por _Google_ 🎲
 
 ## Habilidades:
-- Domínio em **Git e GitHub** .
-- Linguagens: JavaScript, PHP, HTML, CSS.
-- Banco de Dados: MySQL.
+- Domínio em **Git e GitHub**.
+- Programação: JavaScript, PHP, HTML, CSS, MySQL.
+- Frameworks & Bibliotecas: ReactJS, VueJS, NextJS, Laravel.
 - Análise de Dados.
 - Design Gráfico.
 - Domínio em **Notion** e **MarkDown**.
 
 ## Contato/Redes Sociais:
-- Email: [aturmateusdutrabck@gmail.com](mailto:arturmateusdutrabck@gmail.com)
+- Email: [arturmateusdutrabck@gmail.com](mailto:arturmateusdutrabck@gmail.com)
 - Instagram: [(@artzthedev)](https://www.instagram.com/artzthedev) / [(@artz.matz)](https://www.instagram.com/artz.matz)
+- LinkedIn: [(https://www.linkedin.com/in/artur-mateus-rabelo-dutra-a77445311/)]
 - Discord: artzmatz.
