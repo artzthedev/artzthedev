@@ -18,5 +18,5 @@ Seja bem vindo ao meu perfil!
 ## Contato/Redes Sociais:
 - Email: [arturmateusdutrabck@gmail.com](mailto:arturmateusdutrabck@gmail.com)
 - Instagram: [(@artzthedev)](https://www.instagram.com/artzthedev) / [(@artz.matz)](https://www.instagram.com/artz.matz)
-- LinkedIn: [(https://www.linkedin.com/in/artur-mateus-rabelo-dutra-a77445311/)]
+- LinkedIn: [Artur M.R. Dutra](https://www.linkedin.com/in/artur-mateus-rabelo-dutra-a77445311/)
 - Discord: artzmatz.
