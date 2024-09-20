@@ -4,10 +4,7 @@ Seja bem-vindo ao meu perfil!
 ---
 
 ## Sobre mim:
-- **Técnico em Informática** pela _E.E.E.P Osmira Eduardo de Castro_ 👨‍💻  
-- Certificado em **Cloud Foundations** (_Amazon Web Services - AWS_) 🌐  
-- Certificado **HCIA 5G V2.0 Avançado** (_Huawei Talent_) 🖧  
-- Certificado em **Análise de Dados** (_Google_) 🎲  
+- **Técnico em Informática** pela _E.E.E.P Osmira Eduardo de Castro_ 👨‍💻
 
 ---
 
