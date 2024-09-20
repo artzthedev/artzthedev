@@ -19,8 +19,8 @@ Seja bem-vindo ao meu perfil!
 ---
 
 ## Certificações:
-- **Cloud Foundations** - _AWS_  
-- **HCIA 5G V2.0 Avançado** - _Huawei_  
+- **Cloud Foundations** - _Amazon Web Services (AWS)_  
+- **HCIA 5G V2.0 Avançado** - _Huawei Talent_  
 - **Análise de Dados** - _Google_  
 
 ---
