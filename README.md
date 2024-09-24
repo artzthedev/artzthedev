@@ -8,23 +8,32 @@ Welcome to my profile!
 
 ## Skills:
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50"> 
+  
+  ### Languages/Databases
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50">
+
+  ### Libraries:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="50" height="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VueJS" width="50" height="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Tableau_Logo.png" alt="Data Analysis" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Canva_logo.png" alt="Canva" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Notion-logo.svg" alt="Notion" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.png" alt="Photoshop" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/dcurtis/markdown-mark/master/svg/markdown-mark-white.svg" alt="Markdown" width="50" height="50"> 
 </div>
+
+### And also Design Tools:
+- Canva
+- Photshop
+- Figma
+
+### And also Data Analysis Tools:
+- Notion
+- Google Data Analytics and Google Spreadsheets
+- Excel
+- Tableau
+
 ---
 
 ## Certifications:
