@@ -7,12 +7,25 @@ Welcome to my profile!
 ---
 
 ## Skills:
-- **Git** and **GitHub**  
-- Programming: **JavaScript, PHP, HTML, CSS, MySQL**
-- Frameworks & Libraries: **ReactJS**, **VueJS**, **NextJS**, **Laravel**  
-- **Data Analysis**  
-- **Design: Figma, Canva, Photoshop, Web Design** 
-- Proficient in **Notion** and **Markdown**  
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VueJS" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Tableau_Software_logo.svg" alt="Data Analysis" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Canva_logo.png" alt="Canva" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Notion-logo.svg" alt="Notion" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Markdown" width="50" height="50">
+</div>
 ---
 
 ## Certifications:
