@@ -19,11 +19,6 @@ Welcome to my profile!
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VueJS" width="50" height="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="50" height="50"> <!-- Laravel corrigido -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Tableau_Logo.png" alt="Data Analysis" width="50" height="50"> <!-- Data Analysis corrigido (Tableau) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Canva_logo.png" alt="Canva" width="50" height="50"> <!-- Canva corrigido -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Notion-logo.svg" alt="Notion" width="50" height="50"> <!-- Notion corrigido -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Markdown" width="50" height="50">
 </div>
 ---
 
