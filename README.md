@@ -18,7 +18,7 @@ Welcome to my profile!
 ## Certifications:
 - **Cloud Foundations** - _Amazon Web Services (AWS)_  
 - **HCIA 5G V2.0 Advanced** - _Huawei Talent_  
-- **Data Analysis** - _Google_  
+- **Data Analytics** - _Google_  
 ---
 
 ## Get In Touch/Social Media:
