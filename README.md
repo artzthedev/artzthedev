@@ -7,7 +7,7 @@ Welcome to my profile!
 ---
 
 ## Skills:
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 40px;">
   
   ### Languages/Databases
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
@@ -39,7 +39,6 @@ Welcome to my profile!
 ## Certifications:
 - **Cloud Foundations** - _Amazon Web Services (AWS)_  
 - **HCIA 5G V2.0 Advanced** - _Huawei Talent_  
-- **Data Analytics** - _Google_  
 ---
 
 ## Get In Touch/Social Media:
