@@ -53,7 +53,6 @@ Welcome to my GitHub profile!
 ---
 
 ## 🎨 GitHub Stats:
-![Artur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=artzthedev&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=artzthedev&layout=compact&theme=radical)
+![Artur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=artzthedev&show_icons=true&theme=radical) 
 
 ---
