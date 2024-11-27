@@ -51,19 +51,20 @@ Welcome to my GitHub profile!
 
 ## 📬 Get in Touch:
 <p>
-  <a href="mailto:arturmateusdutrabck@gmail.com">
+  <a href="mailto:arturmateusdutrabck@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
-  <a href="https://www.instagram.com/artzthedev">
+  <a href="https://www.instagram.com/artzthedev" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
-  <a href="https://www.linkedin.com/in/artur-mateus-rabelo-dutra-a77445311/">
+  <a href="https://www.linkedin.com/in/artur-mateus-rabelo-dutra-a77445311/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="https://discord.com/users/artzmatz">
+  <a href="https://discord.com/users/artzmatz" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
   </a>
 </p>
+
 
 ---
 
