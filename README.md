@@ -50,11 +50,20 @@ Welcome to my GitHub profile!
 ---
 
 ## 📬 Get in Touch:
-
-[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturmateusdutrabck@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/artzthedev)  
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-mateus-rabelo-dutra-a77445311/)  
-[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/artzmatz)
+<p>
+  <a href="mailto:arturmateusdutrabck@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  <a href="https://www.instagram.com/artzthedev">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/artur-mateus-rabelo-dutra-a77445311/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://discord.com/users/artzmatz">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
+  </a>
+</p>
 
 ---
 
